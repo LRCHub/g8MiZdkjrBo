@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "KiRa-KiRa Sensation!",
+  "base_artist": "天海春香 (CV.中村繪里子)、如月千早 (CV.今井麻美)、星井美希 (CV.長谷川明子)、萩原雪歩 (CV.浅倉杏美)、菊地 真 (CV.平田宏美)",
+  "createdAt": "2026-02-08T07:23:37.286228Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation!",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/01_KiRa-KiRa_Sensation!_μ's.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation! (Off Vocal)",
+      "artist": "μ’s",
+      "has_synced": true,
+      "path": "select/02_KiRa-KiRa_Sensation!_(Off_Vocal)_μ’s.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation!",
+      "artist": "Pile",
+      "has_synced": true,
+      "path": "select/03_KiRa-KiRa_Sensation!_Pile.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation!",
+      "artist": "μ’s",
+      "has_synced": true,
+      "path": "select/04_KiRa-KiRa_Sensation!_μ’s.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation!",
+      "artist": "久保ユリカ",
+      "has_synced": false,
+      "path": "select/05_KiRa-KiRa_Sensation!_久保ユリカ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation!",
+      "artist": "三森すずこ",
+      "has_synced": false,
+      "path": "select/06_KiRa-KiRa_Sensation!_三森すずこ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation!",
+      "artist": "新田恵海",
+      "has_synced": true,
+      "path": "select/07_KiRa-KiRa_Sensation!_新田恵海.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation!",
+      "artist": "徳井青空",
+      "has_synced": false,
+      "path": "select/08_KiRa-KiRa_Sensation!_徳井青空.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation!",
+      "artist": "南條愛乃",
+      "has_synced": true,
+      "path": "select/09_KiRa-KiRa_Sensation!_南條愛乃.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation! (ELI Mix)",
+      "artist": "絢瀬絵里(CV.南條愛乃)",
+      "has_synced": true,
+      "path": "select/10_KiRa-KiRa_Sensation!_(ELI_Mix)_絢瀬絵里(CV.南條愛乃).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation! (HONOKA Mix)",
+      "artist": "高坂穂乃果(CV.新田恵海)",
+      "has_synced": true,
+      "path": "select/11_KiRa-KiRa_Sensation!_(HONOKA_Mix)_高坂穂乃果(CV.新田恵海).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation! (KOTORI Mix)",
+      "artist": "南ことり(CV.内田 彩)",
+      "has_synced": false,
+      "path": "select/12_KiRa-KiRa_Sensation!_(KOTORI_Mix)_南ことり(CV.内田_彩).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation! (HANAYO Mix)",
+      "artist": "小泉花陽(CV.久保ユリカ)",
+      "has_synced": false,
+      "path": "select/13_KiRa-KiRa_Sensation!_(HANAYO_Mix)_小泉花陽(CV.久保ユリカ).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation! (MAKI Mix)",
+      "artist": "西木野真姫(CV.Pile)",
+      "has_synced": true,
+      "path": "select/14_KiRa-KiRa_Sensation!_(MAKI_Mix)_西木野真姫(CV.Pile).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation! (NICO Mix)",
+      "artist": "矢澤にこ(CV.徳井青空)",
+      "has_synced": false,
+      "path": "select/15_KiRa-KiRa_Sensation!_(NICO_Mix)_矢澤にこ(CV.徳井青空).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation! (NOZOMI Mix)",
+      "artist": "東條 希(CV.楠田亜衣奈)",
+      "has_synced": false,
+      "path": "select/16_KiRa-KiRa_Sensation!_(NOZOMI_Mix)_東條_希(CV.楠田亜衣奈).txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation! (RIN Mix)",
+      "artist": "星空凛(CV.飯田里穂)",
+      "has_synced": false,
+      "path": "select/17_KiRa-KiRa_Sensation!_(RIN_Mix)_星空凛(CV.飯田里穂).txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "KiRa-KiRa Sensation! (UMI Mix)",
+      "artist": "園田海未(CV.三森すずこ)",
+      "has_synced": false,
+      "path": "select/18_KiRa-KiRa_Sensation!_(UMI_Mix)_園田海未(CV.三森すずこ).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KiRa-KiRa Sensation!",
+      "artist": "天海春香 (CV.中村繪里子)、如月千早 (CV.今井麻美)、星井美希 (CV.長谷川明子)、萩原雪歩 (CV.浅倉杏美)、菊地 真 (CV.平田宏美)",
+      "has_synced": false,
+      "path": "select/pl_01_KiRa-KiRa_Sensation!_天海春香_(CV.中村繪里子)、如月千早_(CV.今井麻美)、星井美希_(CV.長谷川明子)、萩原雪歩_(CV.浅倉杏美)、菊地_真_(CV.平田宏美).txt"
+    }
+  ]
+}
